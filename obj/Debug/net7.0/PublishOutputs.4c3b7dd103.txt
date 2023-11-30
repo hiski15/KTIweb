@@ -1,0 +1,7 @@
+D:\xampp\htdocs\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.exe
+D:\xampp\htdocs\MyWebApp\bin\Debug\net7.0\publish\appsettings.Development.json
+D:\xampp\htdocs\MyWebApp\bin\Debug\net7.0\publish\appsettings.json
+D:\xampp\htdocs\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.dll
+D:\xampp\htdocs\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.deps.json
+D:\xampp\htdocs\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.runtimeconfig.json
+D:\xampp\htdocs\MyWebApp\bin\Debug\net7.0\publish\MyWebApp.pdb
